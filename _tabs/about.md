@@ -6,4 +6,4 @@ order: 4
 
 
 I'm a Software Engineer working mainly in Java, Javascript and Python.
-I like building useful software in a simple way.
+I like building useful software in a simple way. 
