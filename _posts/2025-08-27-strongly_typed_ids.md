@@ -1,6 +1,6 @@
 ---
 title: Strongly-typed IDs
-date: 2025-09-27 21:10:15 +0200
+date: 2025-08-27 21:10:15 +0200
 categories: [Software, Design]
 tags: [programming, java, reliability, type-safety, immutability]     # TAG names should always be lowercase
 comments: on
