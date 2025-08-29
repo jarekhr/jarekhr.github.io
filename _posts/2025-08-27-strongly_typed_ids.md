@@ -15,7 +15,7 @@ When writing code to handle these operation we need to be able to manipulate IDs
 
 ## Employees in a department, how to get lost quickly
 
-Let imagine we're writing a simple app where we have `Employees` assigned to some `Departments`. And let's assume both are stored in a relational
+Let's imagine we're writing a simple app where we have `Employees` assigned to some `Departments`. And let's assume both are stored in a relational
 database in simple tables. Their IDs will be stored as numbers, therefore we will use numeric ID representation in Java.
 
 ```java
